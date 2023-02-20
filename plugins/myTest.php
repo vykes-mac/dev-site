@@ -1,3 +1,3 @@
 <?php
-echo "Testonmg! 123";
+echo "Testonmg! ";
 
